@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tic Tac Toe 2</string>
+    <string name="this_is_a_tic_tac_toe_game_piece">This is a Tic-Tac-Toe game piece</string>
+    <string name="roundwinner">RoundWinner</string>
+    <string name="play_again">Play Again</string>
+    <string name="yellow_0">Yellow: 0</string>
+    <string name="red_0">Red: 0</string>
 </resources>
